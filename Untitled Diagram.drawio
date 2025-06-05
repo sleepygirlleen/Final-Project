@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1346" dy="512" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2780" dy="1024" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -224,13 +224,13 @@
           <mxGeometry x="-230" y="66" width="435" height="148" as="geometry" />
         </mxCell>
         <mxCell id="JQ5PrZvfi3tdUNVcLpFL-36" value="&lt;b&gt;Understand business objectives&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="JQ5PrZvfi3tdUNVcLpFL-38">
-          <mxGeometry x="4" y="54" width="120" height="60" as="geometry" />
+          <mxGeometry x="12" y="54" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JQ5PrZvfi3tdUNVcLpFL-37" value="&lt;b&gt;Determine the purpose of data collection&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="JQ5PrZvfi3tdUNVcLpFL-38">
-          <mxGeometry x="147" y="54" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="54" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JQ5PrZvfi3tdUNVcLpFL-39" value="&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;p&gt;&lt;b&gt;Development plan of the prediction model&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="JQ5PrZvfi3tdUNVcLpFL-38">
-          <mxGeometry x="307" y="51" width="120" height="66" as="geometry" />
+          <mxGeometry x="305" y="51" width="120" height="66" as="geometry" />
         </mxCell>
         <mxCell id="JQ5PrZvfi3tdUNVcLpFL-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="JQ5PrZvfi3tdUNVcLpFL-38" source="JQ5PrZvfi3tdUNVcLpFL-36" target="JQ5PrZvfi3tdUNVcLpFL-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -249,7 +249,7 @@
             <mxPoint x="81" y="279" as="sourcePoint" />
             <mxPoint x="131" y="229" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="137" y="243" />
+              <mxPoint x="135" y="241" />
               <mxPoint x="-101" y="243" />
             </Array>
           </mxGeometry>
